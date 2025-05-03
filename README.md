@@ -1,9 +1,11 @@
 Image to Text to Speech Converter
 
 Basic Overview of the Project:
+
 This project is a simple tool that takes an image containing text, extracts the text using OCR (Optical Character Recognition), and converts the text into speech. It is built to help visually impaired users or anyone who wants to listen to written content
 
 Introduction:
+
 The Image to Text to Speech Converter uses Python libraries such as pytesseract for text extraction and pyttsx3 for offline text-to-speech conversion. A user-friendly interface is provided using Streamlit, allowing easy interaction through a web browser. Users can upload images with printed or handwritten text, view the extracted text, and listen to the audio version.
 
 Installation Needed:
